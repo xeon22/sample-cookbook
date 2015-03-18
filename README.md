@@ -1,4 +1,4 @@
-# sample-app
+# sample-cookbook
 
-TODO: Enter the cookbook description here.
+Re-creation of clowns/bears from Chef Fundamentals
 
