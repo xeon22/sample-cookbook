@@ -16,5 +16,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[sample-app::default]
+      - recipe[sample-cookbook::default]
     attributes:

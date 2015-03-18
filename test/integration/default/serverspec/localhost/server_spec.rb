@@ -5,5 +5,3 @@ describe 'server' do
     expect(package 'httpd').to be_installed
   end
 end
-
-
