@@ -21,5 +21,3 @@ desc 'Run functional tests with Serverspec'
 task :functional do
   sh 'kitchen test'
 end
-
-
