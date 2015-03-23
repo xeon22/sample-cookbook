@@ -1,6 +1,6 @@
 name 'sample-cookbook'
-maintainer 'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_COMPANY_EMAIL'
+maintainer 'Awesome Inc.'
+maintainer_email 'chef@awesomeinc.com'
 license 'All rights reserved'
 description 'Installs/Configures sample-app'
 long_description 'Installs/Configures sample-cookbook'
